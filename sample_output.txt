@@ -1,0 +1,19 @@
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Extracting /tmp/data/train-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting /tmp/data/train-labels-idx1-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting /tmp/data/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting /tmp/data/t10k-labels-idx1-ubyte.gz
+('Epoch', 0, ' completed out of ', 10, 'loss:', 1800975.9525585175)
+('Epoch', 1, ' completed out of ', 10, 'loss:', 404593.84011077881)
+('Epoch', 2, ' completed out of ', 10, 'loss:', 218410.64447644353)
+('Epoch', 3, ' completed out of ', 10, 'loss:', 126981.9345113039)
+('Epoch', 4, ' completed out of ', 10, 'loss:', 74770.893594413996)
+('Epoch', 5, ' completed out of ', 10, 'loss:', 47337.588290633634)
+('Epoch', 6, ' completed out of ', 10, 'loss:', 30750.27964895761)
+('Epoch', 7, ' completed out of ', 10, 'loss:', 23118.268389574761)
+('Epoch', 8, ' completed out of ', 10, 'loss:', 18745.280688205949)
+('Epoch', 9, ' completed out of ', 10, 'loss:', 15195.954462507118)
+('Accuracy: ', 0.94639999)
